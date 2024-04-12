@@ -1,0 +1,31 @@
+E:\ITI 9M  44\23-MVC\School Management System\School-Management-System\School Management System\School Management System\bin\Debug\net8.0\appsettings.Development.json
+E:\ITI 9M  44\23-MVC\School Management System\School-Management-System\School Management System\School Management System\bin\Debug\net8.0\appsettings.json
+E:\ITI 9M  44\23-MVC\School Management System\School-Management-System\School Management System\School Management System\bin\Debug\net8.0\School Management System.staticwebassets.runtime.json
+E:\ITI 9M  44\23-MVC\School Management System\School-Management-System\School Management System\School Management System\bin\Debug\net8.0\School Management System.exe
+E:\ITI 9M  44\23-MVC\School Management System\School-Management-System\School Management System\School Management System\bin\Debug\net8.0\School Management System.deps.json
+E:\ITI 9M  44\23-MVC\School Management System\School-Management-System\School Management System\School Management System\bin\Debug\net8.0\School Management System.runtimeconfig.json
+E:\ITI 9M  44\23-MVC\School Management System\School-Management-System\School Management System\School Management System\bin\Debug\net8.0\School Management System.dll
+E:\ITI 9M  44\23-MVC\School Management System\School-Management-System\School Management System\School Management System\bin\Debug\net8.0\School Management System.pdb
+E:\ITI 9M  44\23-MVC\School Management System\School-Management-System\School Management System\School Management System\obj\Debug\net8.0\School Management System.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI 9M  44\23-MVC\School Management System\School-Management-System\School Management System\School Management System\obj\Debug\net8.0\School Management System.AssemblyInfoInputs.cache
+E:\ITI 9M  44\23-MVC\School Management System\School-Management-System\School Management System\School Management System\obj\Debug\net8.0\School Management System.AssemblyInfo.cs
+E:\ITI 9M  44\23-MVC\School Management System\School-Management-System\School Management System\School Management System\obj\Debug\net8.0\School Management System.csproj.CoreCompileInputs.cache
+E:\ITI 9M  44\23-MVC\School Management System\School-Management-System\School Management System\School Management System\obj\Debug\net8.0\School Management System.MvcApplicationPartsAssemblyInfo.cache
+E:\ITI 9M  44\23-MVC\School Management System\School-Management-System\School Management System\School Management System\obj\Debug\net8.0\School Management System.RazorAssemblyInfo.cache
+E:\ITI 9M  44\23-MVC\School Management System\School-Management-System\School Management System\School Management System\obj\Debug\net8.0\School Management System.RazorAssemblyInfo.cs
+E:\ITI 9M  44\23-MVC\School Management System\School-Management-System\School Management System\School Management System\obj\Debug\net8.0\School Management System.sourcelink.json
+E:\ITI 9M  44\23-MVC\School Management System\School-Management-System\School Management System\School Management System\obj\Debug\net8.0\staticwebassets.build.json
+E:\ITI 9M  44\23-MVC\School Management System\School-Management-System\School Management System\School Management System\obj\Debug\net8.0\staticwebassets.development.json
+E:\ITI 9M  44\23-MVC\School Management System\School-Management-System\School Management System\School Management System\obj\Debug\net8.0\staticwebassets\msbuild.School Management System.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ITI 9M  44\23-MVC\School Management System\School-Management-System\School Management System\School Management System\obj\Debug\net8.0\staticwebassets\msbuild.build.School Management System.props
+E:\ITI 9M  44\23-MVC\School Management System\School-Management-System\School Management System\School Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.School Management System.props
+E:\ITI 9M  44\23-MVC\School Management System\School-Management-System\School Management System\School Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.School Management System.props
+E:\ITI 9M  44\23-MVC\School Management System\School-Management-System\School Management System\School Management System\obj\Debug\net8.0\staticwebassets.pack.json
+E:\ITI 9M  44\23-MVC\School Management System\School-Management-System\School Management System\School Management System\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ITI 9M  44\23-MVC\School Management System\School-Management-System\School Management System\School Management System\obj\Debug\net8.0\scopedcss\bundle\School Management System.styles.css
+E:\ITI 9M  44\23-MVC\School Management System\School-Management-System\School Management System\School Management System\obj\Debug\net8.0\scopedcss\projectbundle\School Management System.bundle.scp.css
+E:\ITI 9M  44\23-MVC\School Management System\School-Management-System\School Management System\School Management System\obj\Debug\net8.0\School Management System.dll
+E:\ITI 9M  44\23-MVC\School Management System\School-Management-System\School Management System\School Management System\obj\Debug\net8.0\refint\School Management System.dll
+E:\ITI 9M  44\23-MVC\School Management System\School-Management-System\School Management System\School Management System\obj\Debug\net8.0\School Management System.pdb
+E:\ITI 9M  44\23-MVC\School Management System\School-Management-System\School Management System\School Management System\obj\Debug\net8.0\School Management System.genruntimeconfig.cache
+E:\ITI 9M  44\23-MVC\School Management System\School-Management-System\School Management System\School Management System\obj\Debug\net8.0\ref\School Management System.dll
