@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\ITI 9M  44\\23-MVC\\School Management System\\School-Management-System\\School Management System\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4848690F-D2D1-4CF3-8B40-420E1C064CEB}|School Management System\\School Management System.csproj|e:\\iti 9m  44\\23-mvc\\school management system\\school-management-system\\school management system\\school management system\\models\\schoolmanagementsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4848690F-D2D1-4CF3-8B40-420E1C064CEB}|School Management System\\School Management System.csproj|solutionrelative:school management system\\models\\schoolmanagementsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4848690F-D2D1-4CF3-8B40-420E1C064CEB}|School Management System\\School Management System.csproj|e:\\iti 9m  44\\23-mvc\\school management system\\school-management-system\\school management system\\school management system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4848690F-D2D1-4CF3-8B40-420E1C064CEB}|School Management System\\School Management System.csproj|solutionrelative:school management system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4848690F-D2D1-4CF3-8B40-420E1C064CEB}|School Management System\\School Management System.csproj|e:\\iti 9m  44\\23-mvc\\school management system\\school-management-system\\school management system\\school management system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4848690F-D2D1-4CF3-8B40-420E1C064CEB}|School Management System\\School Management System.csproj|solutionrelative:school management system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -25,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4848690F-D2D1-4CF3-8B40-420E1C064CEB}|School Management System\\School Management System.csproj|e:\\iti 9m  44\\23-mvc\\school management system\\school-management-system\\school management system\\school management system\\views\\home\\vehicle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4848690F-D2D1-4CF3-8B40-420E1C064CEB}|School Management System\\School Management System.csproj|solutionrelative:school management system\\views\\home\\vehicle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4848690F-D2D1-4CF3-8B40-420E1C064CEB}|School Management System\\School Management System.csproj|e:\\iti 9m  44\\23-mvc\\school management system\\school-management-system\\school management system\\school management system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4848690F-D2D1-4CF3-8B40-420E1C064CEB}|School Management System\\School Management System.csproj|solutionrelative:school management system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "SchoolManagementSystemContext.cs",
+              "DocumentMoniker": "E:\\ITI 9M  44\\23-MVC\\School Management System\\School-Management-System\\School Management System\\School Management System\\Models\\SchoolManagementSystemContext.cs",
+              "RelativeDocumentMoniker": "School Management System\\Models\\SchoolManagementSystemContext.cs",
+              "ToolTip": "E:\\ITI 9M  44\\23-MVC\\School Management System\\School-Management-System\\School Management System\\School Management System\\Models\\SchoolManagementSystemContext.cs",
+              "RelativeToolTip": "School Management System\\Models\\SchoolManagementSystemContext.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAEwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T09:25:54.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "vehicle.cshtml",
               "DocumentMoniker": "E:\\ITI 9M  44\\23-MVC\\School Management System\\School-Management-System\\School Management System\\School Management System\\Views\\Home\\vehicle.cshtml",
               "RelativeDocumentMoniker": "School Management System\\Views\\Home\\vehicle.cshtml",
@@ -50,12 +67,11 @@
               "RelativeToolTip": "School Management System\\Views\\Home\\vehicle.cshtml",
               "ViewState": "AQIAACsAAAAAAAAAAAAAAFcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-12T03:53:41.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-12T03:53:41.989Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "teacher.cshtml",
               "DocumentMoniker": "E:\\ITI 9M  44\\23-MVC\\School Management System\\School-Management-System\\School Management System\\School Management System\\Views\\Home\\teacher.cshtml",
               "RelativeDocumentMoniker": "School Management System\\Views\\Home\\teacher.cshtml",
@@ -63,12 +79,11 @@
               "RelativeToolTip": "School Management System\\Views\\Home\\teacher.cshtml",
               "ViewState": "AQIAACIAAAAAAAAAAADgv1UAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-12T03:51:54.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-12T03:51:54.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "contact.cshtml",
               "DocumentMoniker": "E:\\ITI 9M  44\\23-MVC\\School Management System\\School-Management-System\\School Management System\\School Management System\\Views\\Home\\contact.cshtml",
               "RelativeDocumentMoniker": "School Management System\\Views\\Home\\contact.cshtml",
@@ -76,12 +91,11 @@
               "RelativeToolTip": "School Management System\\Views\\Home\\contact.cshtml",
               "ViewState": "AQIAACYAAAAAAAAAAAAAACkAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-12T03:49:49.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-12T03:49:49.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "about.cshtml",
               "DocumentMoniker": "E:\\ITI 9M  44\\23-MVC\\School Management System\\School-Management-System\\School Management System\\School Management System\\Views\\Home\\about.cshtml",
               "RelativeDocumentMoniker": "School Management System\\Views\\Home\\about.cshtml",
@@ -89,12 +103,11 @@
               "RelativeToolTip": "School Management System\\Views\\Home\\about.cshtml",
               "ViewState": "AQIAACUAAAAAAAAAAAAAAFQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-12T03:47:36.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-12T03:47:36.189Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\ITI 9M  44\\23-MVC\\School Management System\\School-Management-System\\School Management System\\School Management System\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "School Management System\\Views\\Home\\Index.cshtml",
@@ -102,31 +115,30 @@
               "RelativeToolTip": "School Management System\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAACQAAAAAAAAAAAAAAFYAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-12T03:45:21.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-12T03:45:21.205Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\ITI 9M  44\\23-MVC\\School Management System\\School-Management-System\\School Management System\\School Management System\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "School Management System\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "E:\\ITI 9M  44\\23-MVC\\School Management System\\School-Management-System\\School Management System\\School Management System\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "School Management System\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-12T02:14:22.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\ITI 9M  44\\23-MVC\\School Management System\\School-Management-System\\School Management System\\School Management System\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "School Management System\\Controllers\\HomeController.cs",
               "ToolTip": "E:\\ITI 9M  44\\23-MVC\\School Management System\\School-Management-System\\School Management System\\School Management System\\Controllers\\HomeController.cs",
               "RelativeToolTip": "School Management System\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAuwDMAAAAdAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAuwC0AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T03:31:55.283Z",
               "EditorCaption": ""
